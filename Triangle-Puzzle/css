@@ -4,6 +4,25 @@
     position: relative;
 }
 
+p {
+  font-size: 20px;
+}
+
+.top {
+  top: 100px;
+  left: 187.5px;
+}
+
+.middle {
+  top: 200px;
+  right: 250px;
+}
+
+.bottom {
+  top: 300px;
+  right: 687.5px;
+}
+
 div {
   display: inline;
 }
