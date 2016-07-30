@@ -1,42 +1,22 @@
 <body>
-  <div class="circle" id="one">
+  <div class="circle top">
   </div>
-    <div class="circle" id="two">
-  </div>
-    <div class="circle" id="three">
-  </div>
-    <div class="circle" id="four">
-  </div>
-    <div class="circle" id="five">
-  </div>
-    <div class="circle" id="six">
-  </div>
-    <div class="circle" id="seven">
-  </div>
-    <div class="circle" id="eight">
-  </div>
-    <div class="circle" id="nine">
-  </div>
-    <div class="circle" id="ten">
-  </div></br>
-    <div class="circle red">
+    <div class="circle top">
   </div>
     <div class="circle">
   </div>
-    <div class="circle">
+    <div class="circle middle">
   </div>
-    <div class="circle">
+    <div class="circle middle">
   </div>
-    <div class="circle">
+    <div class="circle middle">
   </div>
-    <div class="circle">
+    <div class="circle bottom">
   </div>
-    <div class="circle">
+    <div class="circle bottom">
   </div>
-    <div class="circle">
+    <div class="circle bottom">
   </div>
-    <div class="circle">
-  </div>
-    <div class="circle">
+    <div class="circle bottom">
   </div>
 </body>
