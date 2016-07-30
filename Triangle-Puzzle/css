@@ -1,0 +1,9 @@
+.circle:before {
+    content: ' \25CF';
+    font-size: 200px;
+    position: relative;
+}
+
+div {
+  display: inline;
+}
